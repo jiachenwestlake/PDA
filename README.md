@@ -16,7 +16,7 @@ transformers >= 4.10.0
 
 ### Usage
 ```
-python experiments/cli.py --config_yaml .yaml 
+python experiments/cli.py --config_yaml classification_manual_prompt.yaml 
 ```
 
   
