@@ -25,8 +25,8 @@ python experiments/cli.py --config_yaml classification_manual_prompt.yaml
 ### Citation
 When you use the our paper or dataset, we would appreciate it if you cite the following:
 ```
-@inproceedings{jia2021pda,
-	title={ Prompt-based distribution alignment for domain generalization in text classification},
+@inproceedings{jia2022pda,
+	title={Prompt-based distribution alignment for domain generalization in text classification},
 	author={Jia, Chen and Zhang, Yue},
 	booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
 	pages={10147–-10157},
