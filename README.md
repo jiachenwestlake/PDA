@@ -8,6 +8,10 @@ It is released with our EMNLP 2022 paper: [Prompt-based Distribution Alignment f
 The code is built based on the open-source toolkit [OpenPrompt](https://github.com/thunlp/OpenPrompt). 
 
 ### Requirements
+**Dataset**
+The full preprocessed datasets are available at [Dir](https://pan.baidu.com/s/1ZExBE3M4hJAF8jR8Da0ydg?pwd=jiac)
+
+**Training command**
 ```
 python >= 3.7
 torch >= 1.10.0
